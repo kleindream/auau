@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#1e64b7"/>
+  <circle cx="256" cy="264" r="158" fill="#f3efe2"/>
+  <path d="M150 170c-40-20-76 18-62 62l42 76 46-74zM362 170c40-20 76 18 62 62l-42 76-46-74z" fill="#7b4a22" stroke="#3b2110" stroke-width="18"/>
+  <ellipse cx="256" cy="260" rx="126" ry="116" fill="#c9823d" stroke="#3b2110" stroke-width="18"/>
+  <circle cx="212" cy="246" r="14" fill="#111"/>
+  <circle cx="300" cy="246" r="14" fill="#111"/>
+  <ellipse cx="256" cy="292" rx="36" ry="28" fill="#f0c48a" stroke="#3b2110" stroke-width="12"/>
+  <ellipse cx="256" cy="280" rx="14" ry="10" fill="#111"/>
+  <path d="M238 312c14 18 34 18 48 0" fill="none" stroke="#111" stroke-width="10" stroke-linecap="round"/>
+  <path d="M342 356c46 10 74-16 82-44" fill="none" stroke="#7b4a22" stroke-width="28" stroke-linecap="round"/>
+  <text x="256" y="452" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="44" font-weight="bold" fill="#fff">Auau</text>
+</svg>

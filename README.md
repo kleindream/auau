@@ -1,101 +1,35 @@
-# 🐶 Klein Dream - Auau Pet
+# Klein Dream - Auau Pet
 
-Auau Pet is a simple and fun virtual pet experience created by Klein Dream.
+Klein Dream - Auau Pet is a simple and sweet virtual pet experience created to work outside Klein Dream as a standalone web app.
 
-Take care of Auau, interact with him, and enjoy a friendly digital companion designed for players of all ages.
+Take care of Auau, feed him, give him water, play, bathe, hug, and enjoy a gentle little companion with a retro-inspired interface.
 
-The goal of Auau Pet is not competition or complexity, but companionship, creativity, and fun.
+## Features
 
----
+- Standalone HTML app
+- Works in modern mobile and desktop browsers
+- Touch-friendly buttons
+- Virtual pet status bars
+- Food, water, bath, sleep, play, affection, and care actions
+- Simple visual animations
+- PWA-ready structure
+- No account required
+- No ads
+- No external assets required
 
-## ✨ Features
+## How to publish on Render
 
-- Feed Auau
-- Give water to Auau
-- Play with Auau
-- Give Auau a bath
-- Pet and interact with Auau
-- Simple and intuitive interface
-- Touch-friendly design
-- Lightweight and easy to use
-- Works directly in the browser
+For a Render Static Site:
 
----
+- Build Command: leave empty
+- Publish Directory: `.`
 
-## 🎯 Philosophy
+## Privacy
 
-Auau Pet was designed around a simple idea:
+Auau Pet does not require login, personal information, or user accounts.
 
-> A virtual pet should be fun, friendly, and easy to understand.
+## Credits
 
-Instead of focusing on complicated systems, Auau Pet focuses on interaction, imagination, and emotional connection.
+Created by Rodrigo Klein Mariano Canto with help from ChatGPT.
 
----
-
-## 👨‍👩‍👧‍👦 Target Audience
-
-- Children
-- Families
-- Casual players
-- Virtual pet enthusiasts
-- Anyone looking for a simple and relaxing experience
-
----
-
-## 🌐 Platform
-
-Auau Pet runs directly in modern web browsers and can be used on:
-
-- Desktop computers
-- Tablets
-- Smartphones
-
----
-
-## 🔒 Privacy
-
-Auau Pet does not require:
-
-- Registration
-- User accounts
-- Personal information
-
-Just open and play.
-
----
-
-## 🐾 About Auau
-
-Auau is the official virtual pet created for the Klein Dream universe.
-
-Friendly, playful, and always ready for attention, Auau was designed to bring joy and companionship through a simple digital experience.
-
----
-
-## 🚀 Future Plans
-
-Planned future improvements may include:
-
-- New animations
-- Additional interactions
-- More customization options
-- Mobile app versions
-- Expanded virtual pet features
-
----
-
-## 👤 Author
-
-Rodrigo Klein Mariano Canto
-
----
-
-## 🤖 Development
-
-Created with the assistance of ChatGPT.
-
----
-
-## ❤️ Created with Passion
-
-Auau Pet was created to provide a simple, honest, and enjoyable virtual pet experience for everyone.
+Part of the Klein Dream family of projects.

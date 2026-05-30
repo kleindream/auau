@@ -1,0 +1,19 @@
+{
+  "name": "Klein Dream - Auau Pet",
+  "short_name": "Auau Pet",
+  "description": "A simple, sweet virtual pet from Klein Dream. Take care of Auau, play, feed, bathe, and share gentle moments.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3efe2",
+  "theme_color": "#1e64b7",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
